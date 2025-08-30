@@ -30,7 +30,7 @@ Building on the original [MeshArt project](https://github.com/swiftandcurious/Me
 
 1. Clone the Repository:  
    ```bash
-   git clone https://github.com/yourusername/MeshArt-SiriShortcuts.git
+   git clone https://github.com/swiftandcurious/MeshArtAppIntent.git
    ```
 2. Open in Xcode:
     - Open the MeshArt.xcodeproj.
